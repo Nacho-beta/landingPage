@@ -1,0 +1,64 @@
+p{
+    font-family: 'Questrial', sans-serif;
+}
+
+#header {
+    background-color: #000000;
+    height: 15em;;
+}
+    #tituloWeb{
+      font-size: 300%;
+      color: #F2F2F2;
+      padding: 12px;
+      font-family: 'Homemade Apple', cursive;
+    }
+    #header p {
+        text-align: center;
+        font-size: 150%;
+        color: #F2F2F2; 
+        font-family: 'Questrial', sans-serif;
+    }
+  
+#contenido{
+    border-style: solid;
+    background-color: #FFFFFF;
+    height: 30em;
+    text-align: center;
+}
+    #contenido p{
+        padding: 50px;
+    }
+    #botonDescarga{
+        width: 50%;
+        height: 20%;
+        font-size: 200%;
+    }
+  
+#piePag{
+    border-style: solid;
+    background-color: #808080;
+    text-align: center;
+    height: 15em;
+}
+    #caracts{
+        align-items: center;
+        list-style: none;
+        margin-left: 25%;
+    }
+        #caracts li {
+            font-family: 'Questrial', sans-serif;
+            background-color: #1B1E23;
+            position:relative;
+            float:left;
+            font-size: 20px;
+            color: white;
+            display: block;
+            text-align: center;
+            padding: 15px;
+        }
+    #tm{
+        float: left;
+        margin-top: 80px;
+        margin-left: 45.5%;
+    }
+          
